@@ -11,5 +11,5 @@
 **PostgreSQL**
 ### [Создание таблицы file_registry](https://github.com/KKKuznetsov/Create_table_file_registry_PostgreSQL)
 **Python**
-### [Сканер новых файлов и их запись в таблицу file_registry](https://github.com/KKKuznetsov/Python_Scanner)
+### [Сканер новых файлов в хранилище и их запись в таблицу file_registry](https://github.com/KKKuznetsov/Python_Scanner)
 
